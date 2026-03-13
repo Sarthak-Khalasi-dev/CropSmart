@@ -1,3 +1,4 @@
+# Sarthak Khalasi
 # 🌾 CropSmart — AI Crop Recommendation System
 
 > Smart farming starts with smart data. CropSmart uses Machine Learning to recommend the best crops based on your soil, climate, and location.
